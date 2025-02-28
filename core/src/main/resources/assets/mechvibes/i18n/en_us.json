@@ -1,0 +1,33 @@
+{
+  "mechvibes": {
+    "settings": {
+      "enabled": {
+        "name": "Enabled"
+      },
+      "keyboard": {
+        "name": "Keyboard"
+      },
+      "keyboardMode": {
+        "name": "Keyboard Mode",
+        "entries": {
+          "nkCream": "NK Cream",
+          "mxBlue": "MX Blue",
+          "mxSilver": "MX Silver",
+          "razerGreen": "Razer Green",
+          "hyperxAqua": "HyperX Aqua",
+          "mxBlack": "MX Black",
+          "toprePurple": "Topre Purple"
+        }
+      },
+      "keyboardVolume": {
+        "name": "Keyboard Volume"
+      },
+      "mouse": {
+        "name": "Mouse"
+      },
+      "mouseVolume": {
+        "name": "Mouse Volume"
+      }
+    }
+  }
+}
